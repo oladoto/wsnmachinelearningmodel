@@ -1,0 +1,278 @@
+,classification,variable,obj_energy,obj_bandwidth,obj_latency,field_size,sink_distance,atmosphere,limit_energy,limit_bandwidth,limit_latency,number_of_nodes,aggregation_function,physical_topology,logical_topology,sampling_rate,required_connectivity,best_technique
+0,Monitoring,Heart Rate,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Leach
+1,Monitoring,Moving Target,0.2,0.2,0.8,City Block,City Block,Overground,0.8,0.2,0.2,1-100 nodes,AVG,STAR,Cluster,1-10/s,Full,Leach
+2,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+3,Monitoring,Moving Target,0.6,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+4,Detection,Moving Target,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+5,Monitoring,Vibration,0.8,0.2,0.2,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-100 nodes,MAX,LINEAR,Chain,1-10/s,Full,Pegasis
+6,Monitoring,Moving Target,0.8,0.2,0.2,Object,Object,Overground,0.6,0.2,0.8,1-10 nodes,AVG,STAR,Cluster,1-10/s,Partial,Leach
+7,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+8,Detection,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.2,0.2,0.8,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+9,Monitoring,Small Area,0.8,0.2,0.2,Room,Room,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+10,Detection,Small Area,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+11,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,LINEAR,Tree,1-10/s,Full,DBST
+12,Monitoring,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-100/s,Full,Heed
+13,Detection,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-10/s,Full,Heed
+14,Monitoring,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+15,Detection,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+16,Monitoring,Traffic,0.2,0.6,0.8,City,City,Object,0.8,0.2,0.2,1-100 nodes,AVG,BUS,Chain,1-10/s,Partial,Pegasis
+17,Monitoring,Moving Target,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+18,Monitoring,Moving Target,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+19,Detection,Moving Target,0.8,0.2,0.2,City,City,Overground,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Cluster,1-1000/s,Full,Directed Diffusion
+20,Monitoring,Small Area,0.8,0.2,0.2,City,City,Object,0.8,0.2,0.2,1-10 nodes,AVG,BUS,Chain,1-10/s,Partial,Heed
+21,Monitoring,Multiple System,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,BUS,Chain,1-10/s,Partial,Heed
+22,Monitoring,Small Area,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Cluster,1-10/s,Partial,Leach
+23,Monitoring,Multiple System,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,COUNT,STAR,Cluster,1-10/s,Partial,Leach
+24,Monitoring,Moving Target,0.8,0.2,0.2,Region,Region,Overground,0.2,0.2,0.8,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+25,Detection,Moving Target,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+26,Monitoring,Vibration,0.8,0.6,0.2,City,City,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+27,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Heed
+28,Monitoring,Vibration,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+29,Monitoring,Multiple System,0.8,0.2,0.6,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.6,1-100 nodes,AVG,STAR,Cluster,1-10/s,Partial,Heed
+30,Monitoring,Multiple System,0.8,0.6,0.6,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-100 nodes,MAX,BUS,Chain,1-10/s,Partial,Pegasis
+31,Monitoring,Distributed System,0.8,0.2,0.6,Region,Region,Overground,0.8,0.2,0.6,1-1000 nodes,MIXED,STAR,Cluster,1-100/s,Full,Heed
+32,Monitoring,System,0.8,0.2,0.6,Region,Region,Overground,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-1000/s,Full,Heed
+33,Monitoring,Distributed System,0.8,0.2,0.2,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+34,Monitoring,Small Area,0.8,0.2,0.2,City Block,City Block,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+35,Monitoring,System / Body,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+36,Monitoring,Moving Target,0.6,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+37,Monitoring,Multiple System,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+38,Detection,Multiple System,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+39,Monitoring,Multiple System,0.8,0.2,0.2,Room,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Heed
+40,Monitoring,Vibration,0.8,0.2,0.2,Room,Room,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Heed
+41,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+42,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+43,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+44,Monitoring,Vibration,0.8,0.2,0.2,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+45,Detection,Vibration,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+46,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+47,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+48,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+49,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+50,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+51,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+52,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+53,Monitoring,Toxic Gas,0.8,0.2,0.2,Object,Object,Air,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+54,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+55,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+56,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+57,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+58,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+59,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+60,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+61,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+62,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+63,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+64,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+65,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+66,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+67,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+68,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+69,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+70,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+71,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+72,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+73,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+74,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+75,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+76,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+77,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+78,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+79,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+80,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+81,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+82,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+83,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+84,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+85,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+86,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+87,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+88,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+89,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+90,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+91,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+92,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+93,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+94,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+95,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+96,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+97,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+98,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+99,Monitoring,Moving Target,0.6,0.2,0.8,City Block,City Block,Overground,0.2,0.2,0.8,1-100 nodes,AVG,MESH,Mesh,1-10/s,Full,Directed Diffusion
+100,Detection,Moving Target,0.2,0.2,0.8,City Block,City Block,Overground,0.2,0.2,0.8,1-100 nodes,AVG,MESH,Mesh,1-10/s,Full,Directed Diffusion
+101,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+102,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+103,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+104,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+105,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+106,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+107,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+108,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+109,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+110,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+111,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+112,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+113,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+114,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+115,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+116,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+117,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+118,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+119,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+120,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+121,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+122,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+123,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+124,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+125,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+126,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+127,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+128,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+129,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+130,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+131,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+132,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+133,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+134,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+135,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+136,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+137,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+138,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+139,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+140,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+141,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+142,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+143,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+144,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+145,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+146,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+147,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+148,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+149,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+150,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+151,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+152,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+153,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+154,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+155,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+156,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+157,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+158,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+159,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+160,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+161,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+162,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+163,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+164,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+165,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+166,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+167,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+168,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+169,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+170,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+171,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+172,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+173,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+174,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+175,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+176,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+177,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+178,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+179,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+180,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+181,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+182,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+183,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+184,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+185,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+186,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+187,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+188,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+189,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+190,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+191,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+192,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+193,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+194,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+195,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+196,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+197,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+198,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+199,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+200,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+201,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+202,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+203,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+204,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+205,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+206,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+207,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+208,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+209,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+210,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+211,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+212,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+213,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+214,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+215,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+216,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+217,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+218,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+219,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+220,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+221,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+222,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+223,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+224,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+225,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+226,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+227,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+228,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+229,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+230,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+231,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+232,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+233,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+234,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+235,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+236,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+237,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+238,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+239,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+240,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+241,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+242,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+243,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+244,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+245,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+246,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+247,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+248,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+249,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+250,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+251,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+252,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+253,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Directed Diffusion
+254,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+255,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+256,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+257,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,DBST
+258,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+259,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+260,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+261,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+262,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+263,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+264,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+265,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+266,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+267,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+268,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+269,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+270,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+271,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+272,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+273,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+274,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+275,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+276,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach

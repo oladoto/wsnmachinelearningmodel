@@ -1,0 +1,1807 @@
+,classification,atmosphere,obj_energy,obj_bandwidth,obj_latency,field_size,number_of_nodes,physical_topology,sampling_rate,best_technique
+0,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,10,Heed
+1,Monitoring,Air,0.2,0.8,0.2,Room,100,Star,10,Heed
+2,Monitoring,Air,0.2,0.8,0.8,Room,100,Star,10,Heed
+3,Monitoring,Air,0.8,0.2,0.8,Room,100,Star,10,Heed
+4,Monitoring,Air,0.8,0.8,0.2,Room,100,Star,10,Heed
+5,Monitoring,Air,0.8,0.2,0.8,Room,100,Star,10,Heed
+6,Monitoring,Air,0.8,0.8,0.8,Room,100,Star,10,Heed
+7,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,10,Leach
+8,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+9,Monitoring,Air,0.2,0.8,0.2,Room,10,Star,10,Leach
+10,Monitoring,Air,0.8,0.2,0.2,Room,10,Star,10,Leach
+11,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,50,Leach
+12,Monitoring,Air,0.2,0.8,0.2,Room,10,Star,50,Leach
+13,Monitoring,Air,0.8,0.2,0.2,Room,10,Star,50,Leach
+14,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,100,Leach
+15,Monitoring,Air,0.2,0.8,0.2,Room,10,Star,100,Leach
+16,Monitoring,Air,0.8,0.2,0.2,Room,10,Star,100,Leach
+17,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+18,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+19,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+20,Monitoring,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+21,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,50,Leach
+22,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,100,Leach
+23,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+24,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+25,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+26,Monitoring,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+27,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+28,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,50,Heed
+29,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,100,Heed
+30,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+31,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+32,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+33,Monitoring,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+34,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+35,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+36,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+37,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+38,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+39,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+40,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+41,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+42,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+43,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+44,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+45,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+46,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+47,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+48,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+49,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+50,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+51,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+52,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+53,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+54,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+55,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+56,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+57,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+58,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+59,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+60,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+61,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,10,Heed
+62,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+63,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,50,Heed
+64,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,50,Heed
+65,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,50,Heed
+66,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,100,Heed
+67,Monitoring,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,100,Heed
+68,Monitoring,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,100,Heed
+69,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+70,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+71,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+72,Monitoring,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+73,Monitoring,Air,0.2,0.8,0.2,City Block,10,Star,10,Heed
+74,Monitoring,Air,0.8,0.2,0.2,City Block,10,Star,10,Heed
+75,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,50,Heed
+76,Monitoring,Air,0.2,0.8,0.2,City Block,10,Star,50,Heed
+77,Monitoring,Air,0.8,0.2,0.2,City Block,10,Star,50,Heed
+78,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,100,Heed
+79,Monitoring,Air,0.2,0.8,0.2,City Block,10,Star,100,Heed
+80,Monitoring,Air,0.8,0.2,0.2,City Block,10,Star,100,Heed
+81,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+82,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+83,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+84,Monitoring,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+85,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+86,Monitoring,Air,0.2,0.8,0.2,City Block,100,Star,10,Heed
+87,Monitoring,Air,0.8,0.2,0.2,City Block,100,Star,10,Heed
+88,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,50,Heed
+89,Monitoring,Air,0.2,0.8,0.2,City Block,100,Star,50,Heed
+90,Monitoring,Air,0.8,0.2,0.2,City Block,100,Star,50,Heed
+91,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,100,Heed
+92,Monitoring,Air,0.2,0.8,0.2,City Block,100,Star,100,Heed
+93,Monitoring,Air,0.8,0.2,0.2,City Block,100,Star,100,Heed
+94,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+95,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+96,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+97,Monitoring,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+98,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+99,Monitoring,Air,0.2,0.8,0.2,City Block,1000,Star,10,DBST
+100,Monitoring,Air,0.8,0.2,0.2,City Block,1000,Star,10,DBST
+101,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,50,DBST
+102,Monitoring,Air,0.2,0.8,0.2,City Block,1000,Star,50,DBST
+103,Monitoring,Air,0.8,0.2,0.2,City Block,1000,Star,50,DBST
+104,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,100,DBST
+105,Monitoring,Air,0.2,0.8,0.2,City Block,1000,Star,100,DBST
+106,Monitoring,Air,0.8,0.2,0.2,City Block,1000,Star,100,DBST
+107,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+108,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+109,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+110,Monitoring,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+111,Monitoring,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+112,Monitoring,Air,0.2,0.8,0.2,City,10,Star,10,DBST
+113,Monitoring,Air,0.8,0.2,0.2,City,10,Star,10,DBST
+114,Monitoring,Air,0.2,0.2,0.8,City,10,Star,50,DBST
+115,Monitoring,Air,0.2,0.8,0.2,City,10,Star,50,DBST
+116,Monitoring,Air,0.8,0.2,0.2,City,10,Star,50,DBST
+117,Monitoring,Air,0.2,0.2,0.8,City,10,Star,100,DBST
+118,Monitoring,Air,0.2,0.8,0.2,City,10,Star,100,DBST
+119,Monitoring,Air,0.8,0.2,0.2,City,10,Star,100,DBST
+120,Monitoring,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+121,Monitoring,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+122,Monitoring,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+123,Monitoring,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+124,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+125,Monitoring,Overground,0.2,0.8,0.2,Room,10,Star,10,Leach
+126,Monitoring,Overground,0.8,0.2,0.2,Room,10,Star,10,Leach
+127,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,50,Leach
+128,Monitoring,Overground,0.2,0.8,0.2,Room,10,Star,50,Leach
+129,Monitoring,Overground,0.8,0.2,0.2,Room,10,Star,50,Leach
+130,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,100,Leach
+131,Monitoring,Overground,0.2,0.8,0.2,Room,10,Star,100,Leach
+132,Monitoring,Overground,0.8,0.2,0.2,Room,10,Star,100,Leach
+133,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+134,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+135,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+136,Monitoring,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+137,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+138,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,50,Directed Diffusion
+139,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,100,Directed Diffusion
+140,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+141,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+142,Monitoring,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+143,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+144,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+145,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+146,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+147,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+148,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+149,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+150,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+151,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+152,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+153,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+154,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+155,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+156,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+157,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+158,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+159,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+160,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+161,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+162,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+163,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+164,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+165,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+166,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+167,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+168,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+169,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+170,Monitoring,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+171,Monitoring,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+172,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+173,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+174,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+175,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+176,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+177,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+178,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+179,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+180,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+181,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+182,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+183,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+184,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+185,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+186,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+187,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+188,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+189,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+190,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+191,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+192,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+193,Monitoring,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+194,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+195,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+196,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+197,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+198,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+199,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+200,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+201,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+202,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+203,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+204,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+205,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+206,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+207,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+208,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+209,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+210,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+211,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+212,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+213,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+214,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+215,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+216,Monitoring,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+217,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+218,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,50,Directed Diffusion
+219,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,100,Directed Diffusion
+220,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+221,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+222,Monitoring,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+223,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+224,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,50,Directed Diffusion
+225,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,100,Directed Diffusion
+226,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+227,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+228,Monitoring,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+229,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+230,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,50,Directed Diffusion
+231,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,100,Directed Diffusion
+232,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+233,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+234,Monitoring,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+235,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+236,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,50,Directed Diffusion
+237,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,100,Directed Diffusion
+238,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+239,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+240,Monitoring,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+241,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+242,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,50,Directed Diffusion
+243,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,100,Directed Diffusion
+244,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+245,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+246,Monitoring,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+247,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+248,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,50,Directed Diffusion
+249,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,100,Directed Diffusion
+250,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+251,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+252,Monitoring,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+253,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+254,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,50,Directed Diffusion
+255,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,100,Directed Diffusion
+256,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+257,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+258,Monitoring,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+259,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+260,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,50,Directed Diffusion
+261,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,100,Directed Diffusion
+262,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+263,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+264,Monitoring,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+265,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+266,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,50,Directed Diffusion
+267,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,100,Directed Diffusion
+268,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+269,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+270,Monitoring,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+271,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+272,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,50,Directed Diffusion
+273,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,100,Directed Diffusion
+274,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+275,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+276,Monitoring,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+277,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+278,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,50,Directed Diffusion
+279,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,100,Directed Diffusion
+280,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+281,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+282,Monitoring,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+283,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+284,Monitoring,Underground,0.2,0.8,0.2,Room,10,Star,10,Leach
+285,Monitoring,Underground,0.8,0.2,0.2,Room,10,Star,10,Leach
+286,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,50,Leach
+287,Monitoring,Underground,0.2,0.8,0.2,Room,10,Star,50,Leach
+288,Monitoring,Underground,0.8,0.2,0.2,Room,10,Star,50,Leach
+289,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,100,Leach
+290,Monitoring,Underground,0.2,0.8,0.2,Room,10,Star,100,Leach
+291,Monitoring,Underground,0.8,0.2,0.2,Room,10,Star,100,Leach
+292,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+293,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+294,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+295,Monitoring,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+296,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+297,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,50,Leach
+298,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,100,Leach
+299,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+300,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+301,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+302,Monitoring,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+303,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+304,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+305,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+306,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+307,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+308,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+309,Monitoring,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+310,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+311,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+312,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+313,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+314,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+315,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+316,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+317,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+318,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+319,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+320,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+321,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+322,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+323,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+324,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+325,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+326,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+327,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+328,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+329,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+330,Monitoring,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+331,Monitoring,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+332,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+333,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+334,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+335,Monitoring,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+336,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+337,Monitoring,Underwater Surface,0.2,0.8,0.2,Room,10,Star,10,Heed
+338,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,10,Star,10,Heed
+339,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,50,Heed
+340,Monitoring,Underwater Surface,0.2,0.8,0.2,Room,10,Star,50,Heed
+341,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,10,Star,50,Heed
+342,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,100,Heed
+343,Monitoring,Underwater Surface,0.2,0.8,0.2,Room,10,Star,100,Heed
+344,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,10,Star,100,Heed
+345,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+346,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+347,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+348,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+349,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+350,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,100,Star,10,Heed
+351,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,50,Leach
+352,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,100,Star,50,Heed
+353,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,100,Leach
+354,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,100,Star,100,Heed
+355,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+356,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+357,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+358,Monitoring,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+359,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+360,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,50,Heed
+361,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,100,Heed
+362,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+363,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+364,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+365,Monitoring,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+366,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+367,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+368,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+369,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+370,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+371,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+372,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+373,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+374,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+375,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+376,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+377,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+378,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+379,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+380,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+381,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+382,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+383,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+384,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+385,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+386,Monitoring,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+387,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+388,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+389,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+390,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+391,Monitoring,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+392,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+393,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,50,Heed
+394,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,100,Heed
+395,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+396,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+397,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+398,Monitoring,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+399,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+400,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,50,Heed
+401,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,100,Heed
+402,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+403,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+404,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+405,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+406,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+407,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,50,Heed
+408,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,100,Heed
+409,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+410,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+411,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+412,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+413,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+414,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,50,Heed
+415,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,100,Heed
+416,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+417,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+418,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+419,Monitoring,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+420,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+421,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,50,Heed
+422,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,100,Heed
+423,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+424,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+425,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+426,Monitoring,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+427,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+428,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,50,Heed
+429,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,100,Heed
+430,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+431,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+432,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+433,Monitoring,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+434,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+435,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,50,Heed
+436,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,100,Heed
+437,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+438,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+439,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+440,Monitoring,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+441,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+442,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,50,Heed
+443,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,100,Heed
+444,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+445,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+446,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+447,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+448,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+449,Monitoring,Underwater Surface,0.2,0.8,0.2,Region,100,Star,10,DBST
+450,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,100,Star,10,Heed
+451,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,50,DBST
+452,Monitoring,Underwater Surface,0.2,0.8,0.2,Region,100,Star,50,DBST
+453,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,100,Star,50,Heed
+454,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,100,DBST
+455,Monitoring,Underwater Surface,0.2,0.8,0.2,Region,100,Star,100,DBST
+456,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,100,Star,100,Heed
+457,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+458,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+459,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+460,Monitoring,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+461,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+462,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,50,Heed
+463,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,100,Heed
+464,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+465,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+466,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+467,Monitoring,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+468,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+469,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,50,Heed
+470,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,100,Heed
+471,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+472,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+473,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+474,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+475,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+476,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,10,Heed
+477,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,10,Heed
+478,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,50,Heed
+479,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,50,Heed
+480,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,50,Heed
+481,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,100,Heed
+482,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,100,Heed
+483,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,100,Heed
+484,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+485,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+486,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+487,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+488,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+489,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,10,Heed
+490,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,10,Heed
+491,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,50,Heed
+492,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,50,Heed
+493,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,50,Heed
+494,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,100,Heed
+495,Monitoring,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,100,Heed
+496,Monitoring,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,100,Heed
+497,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+498,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+499,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+500,Monitoring,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+501,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+502,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,50,Heed
+503,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,100,Heed
+504,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+505,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+506,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+507,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+508,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+509,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,50,Heed
+510,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,100,Heed
+511,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+512,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+513,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+514,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+515,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+516,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,50,Heed
+517,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,100,Heed
+518,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+519,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+520,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+521,Monitoring,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+522,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+523,Monitoring,Underwater Deep,0.2,0.8,0.2,Room,10,Star,10,Leach
+524,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+525,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+526,Monitoring,Underwater Deep,0.2,0.8,0.2,Room,10,Star,50,Leach
+527,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+528,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+529,Monitoring,Underwater Deep,0.2,0.8,0.2,Room,10,Star,100,Leach
+530,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+531,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+532,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+533,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+534,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+535,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+536,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+537,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+538,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+539,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+540,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+541,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+542,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+543,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+544,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+545,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+546,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+547,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+548,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+549,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+550,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+551,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+552,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+553,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+554,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+555,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+556,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,50,Leach
+557,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,100,Leach
+558,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+559,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+560,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+561,Monitoring,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+562,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+563,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,50,Heed
+564,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,100,Heed
+565,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+566,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+567,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+568,Monitoring,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+569,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+570,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+571,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+572,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+573,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+574,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+575,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+576,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+577,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+578,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+579,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+580,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+581,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+582,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+583,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+584,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+585,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+586,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+587,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+588,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+589,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+590,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+591,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+592,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+593,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+594,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+595,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+596,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+597,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+598,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+599,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+600,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+601,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+602,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+603,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+604,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+605,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+606,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+607,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+608,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+609,Monitoring,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+610,Monitoring,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+611,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+612,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+613,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+614,Monitoring,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+615,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+616,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,50,Pegasis
+617,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,100,Pegasis
+618,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+619,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+620,Monitoring,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+621,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+622,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,50,Pegasis
+623,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,100,Pegasis
+624,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+625,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+626,Monitoring,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+627,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+628,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,50,Pegasis
+629,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,100,Pegasis
+630,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+631,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+632,Monitoring,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+633,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+634,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,10,Pegasis
+635,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,10,Pegasis
+636,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,50,Pegasis
+637,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,50,Pegasis
+638,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,50,Pegasis
+639,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,100,Pegasis
+640,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,100,Pegasis
+641,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,100,Pegasis
+642,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+643,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+644,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+645,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+646,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,10,Pegasis
+647,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,10,Pegasis
+648,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,50,Pegasis
+649,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,50,Pegasis
+650,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,50,Pegasis
+651,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,100,Pegasis
+652,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,100,Pegasis
+653,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,100,Pegasis
+654,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+655,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+656,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+657,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+658,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,10,Pegasis
+659,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,10,Pegasis
+660,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,50,Pegasis
+661,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,50,Pegasis
+662,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,50,Pegasis
+663,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,100,Pegasis
+664,Monitoring,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,100,Pegasis
+665,Monitoring,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,100,Pegasis
+666,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+667,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+668,Monitoring,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+669,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+670,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,50,Pegasis
+671,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,100,Pegasis
+672,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+673,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+674,Monitoring,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+675,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+676,Monitoring,Vacuum Space,0.2,0.8,0.2,Room,10,Star,10,Leach
+677,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,10,Star,10,Leach
+678,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,50,Leach
+679,Monitoring,Vacuum Space,0.2,0.8,0.2,Room,10,Star,50,Leach
+680,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,10,Star,50,Leach
+681,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,100,Leach
+682,Monitoring,Vacuum Space,0.2,0.8,0.2,Room,10,Star,100,Leach
+683,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,10,Star,100,Leach
+684,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+685,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+686,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+687,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+688,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+689,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,50,Leach
+690,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,100,Leach
+691,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+692,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+693,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+694,Monitoring,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+695,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+696,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,50,Heed
+697,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,100,Heed
+698,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+699,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+700,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+701,Monitoring,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+702,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+703,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+704,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+705,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+706,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+707,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+708,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+709,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+710,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+711,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+712,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+713,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+714,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+715,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+716,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+717,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+718,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+719,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+720,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+721,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+722,Monitoring,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+723,Monitoring,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+724,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+725,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+726,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+727,Monitoring,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+728,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+729,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,10,DBST
+730,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,10,DBST
+731,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,50,DBST
+732,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,50,DBST
+733,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,50,DBST
+734,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,100,DBST
+735,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,100,DBST
+736,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,100,DBST
+737,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+738,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+739,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+740,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+741,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,10,DBST
+742,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,10,DBST
+743,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,50,DBST
+744,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,50,DBST
+745,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,50,DBST
+746,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,100,DBST
+747,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,100,DBST
+748,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,100,DBST
+749,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+750,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+751,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+752,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+753,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,10,DBST
+754,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,10,DBST
+755,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,50,DBST
+756,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,50,DBST
+757,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,50,DBST
+758,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,100,DBST
+759,Monitoring,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,100,DBST
+760,Monitoring,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,100,DBST
+761,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+762,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+763,Monitoring,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+764,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+765,Monitoring,Vacuum Space,0.2,0.8,0.2,City,10,Bus,10,DBST
+766,Monitoring,Vacuum Space,0.8,0.2,0.2,City,10,Bus,10,DBST
+767,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,50,DBST
+768,Monitoring,Vacuum Space,0.2,0.8,0.2,City,10,Bus,50,DBST
+769,Monitoring,Vacuum Space,0.8,0.2,0.2,City,10,Bus,50,DBST
+770,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,100,DBST
+771,Monitoring,Vacuum Space,0.2,0.8,0.2,City,10,Bus,100,DBST
+772,Monitoring,Vacuum Space,0.8,0.2,0.2,City,10,Bus,100,DBST
+773,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+774,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+775,Monitoring,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+776,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+777,Monitoring,Vacuum Space,0.2,0.8,0.2,City,100,Bus,10,DBST
+778,Monitoring,Vacuum Space,0.8,0.2,0.2,City,100,Bus,10,DBST
+779,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,50,DBST
+780,Monitoring,Vacuum Space,0.2,0.8,0.2,City,100,Bus,50,DBST
+781,Monitoring,Vacuum Space,0.8,0.2,0.2,City,100,Bus,50,DBST
+782,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,100,DBST
+783,Monitoring,Vacuum Space,0.2,0.8,0.2,City,100,Bus,100,DBST
+784,Monitoring,Vacuum Space,0.8,0.2,0.2,City,100,Bus,100,DBST
+785,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+786,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+787,Monitoring,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+788,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+789,Monitoring,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,10,DBST
+790,Monitoring,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,10,DBST
+791,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,50,DBST
+792,Monitoring,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,50,DBST
+793,Monitoring,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,50,DBST
+794,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,100,DBST
+795,Monitoring,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,100,DBST
+796,Monitoring,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,100,DBST
+797,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+798,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+799,Monitoring,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+800,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+801,Monitoring,Object,0.2,0.8,0.2,Room,10,Star,10,Leach
+802,Monitoring,Object,0.8,0.2,0.2,Room,10,Star,10,Leach
+803,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,50,Leach
+804,Monitoring,Object,0.2,0.8,0.2,Room,10,Star,50,Leach
+805,Monitoring,Object,0.8,0.2,0.2,Room,10,Star,50,Leach
+806,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,100,Leach
+807,Monitoring,Object,0.2,0.8,0.2,Room,10,Star,100,Leach
+808,Monitoring,Object,0.8,0.2,0.2,Room,10,Star,100,Leach
+809,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+810,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+811,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+812,Monitoring,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+813,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+814,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,50,Leach
+815,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,100,Leach
+816,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+817,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+818,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+819,Monitoring,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+820,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+821,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,50,Heed
+822,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,100,Heed
+823,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+824,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+825,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+826,Monitoring,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+827,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+828,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+829,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+830,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+831,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+832,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+833,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+834,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+835,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+836,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+837,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+838,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+839,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+840,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+841,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+842,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+843,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+844,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+845,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+846,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+847,Monitoring,Object,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+848,Monitoring,Object,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+849,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+850,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+851,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+852,Monitoring,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+853,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+854,Monitoring,Human Body,0.2,0.8,0.2,Room,10,Star,10,Leach
+855,Monitoring,Human Body,0.8,0.2,0.2,Room,10,Star,10,Leach
+856,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,50,Leach
+857,Monitoring,Human Body,0.2,0.8,0.2,Room,10,Star,50,Leach
+858,Monitoring,Human Body,0.8,0.2,0.2,Room,10,Star,50,Leach
+859,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,100,Leach
+860,Monitoring,Human Body,0.2,0.8,0.2,Room,10,Star,100,Leach
+861,Monitoring,Human Body,0.8,0.2,0.2,Room,10,Star,100,Leach
+862,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+863,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+864,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+865,Monitoring,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+866,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+867,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,50,Leach
+868,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,100,Leach
+869,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+870,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+871,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+872,Monitoring,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+873,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+874,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,50,Heed
+875,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,100,Heed
+876,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+877,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+878,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+879,Monitoring,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+880,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+881,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+882,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+883,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+884,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+885,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+886,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+887,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+888,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+889,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+890,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+891,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+892,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+893,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+894,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+895,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+896,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+897,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+898,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+899,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+900,Monitoring,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+901,Monitoring,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+902,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+903,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+904,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+905,Monitoring,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+906,Detection,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+907,Detection,Air,0.2,0.8,0.2,Room,10,Star,10,Leach
+908,Detection,Air,0.8,0.2,0.2,Room,10,Star,10,Leach
+909,Detection,Air,0.2,0.2,0.8,Room,10,Star,50,Leach
+910,Detection,Air,0.2,0.8,0.2,Room,10,Star,50,Leach
+911,Detection,Air,0.8,0.2,0.2,Room,10,Star,50,Leach
+912,Detection,Air,0.2,0.2,0.8,Room,10,Star,100,Leach
+913,Detection,Air,0.2,0.8,0.2,Room,10,Star,100,Leach
+914,Detection,Air,0.8,0.2,0.2,Room,10,Star,100,Leach
+915,Detection,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+916,Detection,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+917,Detection,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+918,Detection,Air,0.2,0.2,0.8,Room,10,Star,10,Leach
+919,Detection,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+920,Detection,Air,0.2,0.2,0.8,Room,100,Star,50,Leach
+921,Detection,Air,0.2,0.2,0.8,Room,100,Star,100,Leach
+922,Detection,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+923,Detection,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+924,Detection,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+925,Detection,Air,0.2,0.2,0.8,Room,100,Star,10,Leach
+926,Detection,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+927,Detection,Air,0.8,0.2,0.2,Room,1000,Star,50,Heed
+928,Detection,Air,0.8,0.2,0.2,Room,1000,Star,100,Heed
+929,Detection,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+930,Detection,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+931,Detection,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+932,Detection,Air,0.8,0.2,0.2,Room,1000,Star,10,Heed
+933,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+934,Detection,Air,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+935,Detection,Air,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+936,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+937,Detection,Air,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+938,Detection,Air,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+939,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+940,Detection,Air,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+941,Detection,Air,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+942,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+943,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+944,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+945,Detection,Air,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+946,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+947,Detection,Air,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+948,Detection,Air,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+949,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+950,Detection,Air,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+951,Detection,Air,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+952,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+953,Detection,Air,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+954,Detection,Air,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+955,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+956,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+957,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+958,Detection,Air,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+959,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+960,Detection,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,10,Heed
+961,Detection,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+962,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,50,Heed
+963,Detection,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,50,Heed
+964,Detection,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,50,Heed
+965,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,100,Heed
+966,Detection,Air,0.2,0.8,0.2,Apartment Complex,1000,Star,100,Heed
+967,Detection,Air,0.8,0.2,0.2,Apartment Complex,1000,Star,100,Heed
+968,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+969,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+970,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+971,Detection,Air,0.2,0.2,0.8,Apartment Complex,1000,Star,10,Heed
+972,Detection,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+973,Detection,Air,0.2,0.8,0.2,City Block,10,Star,10,Heed
+974,Detection,Air,0.8,0.2,0.2,City Block,10,Star,10,Heed
+975,Detection,Air,0.2,0.2,0.8,City Block,10,Star,50,Heed
+976,Detection,Air,0.2,0.8,0.2,City Block,10,Star,50,Heed
+977,Detection,Air,0.8,0.2,0.2,City Block,10,Star,50,Heed
+978,Detection,Air,0.2,0.2,0.8,City Block,10,Star,100,Heed
+979,Detection,Air,0.2,0.8,0.2,City Block,10,Star,100,Heed
+980,Detection,Air,0.8,0.2,0.2,City Block,10,Star,100,Heed
+981,Detection,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+982,Detection,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+983,Detection,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+984,Detection,Air,0.2,0.2,0.8,City Block,10,Star,10,Heed
+985,Detection,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+986,Detection,Air,0.2,0.8,0.2,City Block,100,Star,10,Heed
+987,Detection,Air,0.8,0.2,0.2,City Block,100,Star,10,Heed
+988,Detection,Air,0.2,0.2,0.8,City Block,100,Star,50,Heed
+989,Detection,Air,0.2,0.8,0.2,City Block,100,Star,50,Heed
+990,Detection,Air,0.8,0.2,0.2,City Block,100,Star,50,Heed
+991,Detection,Air,0.2,0.2,0.8,City Block,100,Star,100,Heed
+992,Detection,Air,0.2,0.8,0.2,City Block,100,Star,100,Heed
+993,Detection,Air,0.8,0.2,0.2,City Block,100,Star,100,Heed
+994,Detection,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+995,Detection,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+996,Detection,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+997,Detection,Air,0.2,0.2,0.8,City Block,100,Star,10,Heed
+998,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+999,Detection,Air,0.2,0.8,0.2,City Block,1000,Star,10,DBST
+1000,Detection,Air,0.8,0.2,0.2,City Block,1000,Star,10,DBST
+1001,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,50,DBST
+1002,Detection,Air,0.2,0.8,0.2,City Block,1000,Star,50,DBST
+1003,Detection,Air,0.8,0.2,0.2,City Block,1000,Star,50,DBST
+1004,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,100,DBST
+1005,Detection,Air,0.2,0.8,0.2,City Block,1000,Star,100,DBST
+1006,Detection,Air,0.8,0.2,0.2,City Block,1000,Star,100,DBST
+1007,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+1008,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+1009,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+1010,Detection,Air,0.2,0.2,0.8,City Block,1000,Star,10,DBST
+1011,Detection,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+1012,Detection,Air,0.2,0.8,0.2,City,10,Star,10,DBST
+1013,Detection,Air,0.8,0.2,0.2,City,10,Star,10,DBST
+1014,Detection,Air,0.2,0.2,0.8,City,10,Star,50,DBST
+1015,Detection,Air,0.2,0.8,0.2,City,10,Star,50,DBST
+1016,Detection,Air,0.8,0.2,0.2,City,10,Star,50,DBST
+1017,Detection,Air,0.2,0.2,0.8,City,10,Star,100,DBST
+1018,Detection,Air,0.2,0.8,0.2,City,10,Star,100,DBST
+1019,Detection,Air,0.8,0.2,0.2,City,10,Star,100,DBST
+1020,Detection,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+1021,Detection,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+1022,Detection,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+1023,Detection,Air,0.2,0.2,0.8,City,10,Star,10,DBST
+1024,Detection,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1025,Detection,Overground,0.2,0.8,0.2,Room,10,Star,10,Leach
+1026,Detection,Overground,0.8,0.2,0.2,Room,10,Star,10,Leach
+1027,Detection,Overground,0.2,0.2,0.8,Room,10,Star,50,Leach
+1028,Detection,Overground,0.2,0.8,0.2,Room,10,Star,50,Leach
+1029,Detection,Overground,0.8,0.2,0.2,Room,10,Star,50,Leach
+1030,Detection,Overground,0.2,0.2,0.8,Room,10,Star,100,Leach
+1031,Detection,Overground,0.2,0.8,0.2,Room,10,Star,100,Leach
+1032,Detection,Overground,0.8,0.2,0.2,Room,10,Star,100,Leach
+1033,Detection,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1034,Detection,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1035,Detection,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1036,Detection,Overground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1037,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+1038,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,50,Directed Diffusion
+1039,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,100,Directed Diffusion
+1040,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+1041,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+1042,Detection,Overground,0.2,0.2,0.8,Room,100,Mesh,10,Directed Diffusion
+1043,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+1044,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1045,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+1046,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1047,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+1048,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1049,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+1050,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1051,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+1052,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1053,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+1054,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1055,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+1056,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1057,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+1058,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1059,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+1060,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1061,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1062,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+1063,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1064,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+1065,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1066,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,10,Directed Diffusion
+1067,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1068,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,50,Directed Diffusion
+1069,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1070,Detection,Overground,0.2,0.2,0.8,Room,1000,Mesh,100,Directed Diffusion
+1071,Detection,Overground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1072,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1073,Detection,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1074,Detection,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1075,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1076,Detection,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1077,Detection,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1078,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1079,Detection,Overground,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1080,Detection,Overground,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1081,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1082,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1083,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1084,Detection,Overground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1085,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+1086,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1087,Detection,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1088,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+1089,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1090,Detection,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1091,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+1092,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1093,Detection,Overground,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1094,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+1095,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1096,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+1097,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1098,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+1099,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1100,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+1101,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1102,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+1103,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1104,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+1105,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1106,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1107,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+1108,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1109,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+1110,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1111,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,10,Directed Diffusion
+1112,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1113,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,50,Directed Diffusion
+1114,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1115,Detection,Overground,0.2,0.2,0.8,Apartment Complex,100,Mesh,100,Directed Diffusion
+1116,Detection,Overground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1117,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+1118,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,50,Directed Diffusion
+1119,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,100,Directed Diffusion
+1120,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+1121,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+1122,Detection,Overground,0.2,0.2,0.8,Apartment Complex,1000,Mesh,10,Directed Diffusion
+1123,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+1124,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,50,Directed Diffusion
+1125,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,100,Directed Diffusion
+1126,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+1127,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+1128,Detection,Overground,0.2,0.2,0.8,City Block,100,Mesh,10,Directed Diffusion
+1129,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+1130,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,50,Directed Diffusion
+1131,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,100,Directed Diffusion
+1132,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+1133,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+1134,Detection,Overground,0.2,0.2,0.8,City Block,1000,Mesh,10,Directed Diffusion
+1135,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+1136,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,50,Directed Diffusion
+1137,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,100,Directed Diffusion
+1138,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+1139,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+1140,Detection,Overground,0.2,0.2,0.8,City,100,Mesh,10,Directed Diffusion
+1141,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+1142,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,50,Directed Diffusion
+1143,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,100,Directed Diffusion
+1144,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+1145,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+1146,Detection,Overground,0.2,0.2,0.8,City,1000,Mesh,10,Directed Diffusion
+1147,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+1148,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,50,Directed Diffusion
+1149,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,100,Directed Diffusion
+1150,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+1151,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+1152,Detection,Overground,0.2,0.2,0.8,Region,100,Mesh,10,Directed Diffusion
+1153,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+1154,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,50,Directed Diffusion
+1155,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,100,Directed Diffusion
+1156,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+1157,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+1158,Detection,Overground,0.2,0.2,0.8,Region,1000,Mesh,10,Directed Diffusion
+1159,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+1160,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,50,Directed Diffusion
+1161,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,100,Directed Diffusion
+1162,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+1163,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+1164,Detection,Overground,0.2,0.2,0.8,Ocean,100,Mesh,10,Directed Diffusion
+1165,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+1166,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,50,Directed Diffusion
+1167,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,100,Directed Diffusion
+1168,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+1169,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+1170,Detection,Overground,0.2,0.2,0.8,Ocean,1000,Mesh,10,Directed Diffusion
+1171,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+1172,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,50,Directed Diffusion
+1173,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,100,Directed Diffusion
+1174,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+1175,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+1176,Detection,Overground,0.2,0.2,0.8,Object,100,Mesh,10,Directed Diffusion
+1177,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+1178,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,50,Directed Diffusion
+1179,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,100,Directed Diffusion
+1180,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+1181,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+1182,Detection,Overground,0.2,0.2,0.8,Object,1000,Mesh,10,Directed Diffusion
+1183,Detection,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1184,Detection,Underground,0.2,0.8,0.2,Room,10,Star,10,Leach
+1185,Detection,Underground,0.8,0.2,0.2,Room,10,Star,10,Leach
+1186,Detection,Underground,0.2,0.2,0.8,Room,10,Star,50,Leach
+1187,Detection,Underground,0.2,0.8,0.2,Room,10,Star,50,Leach
+1188,Detection,Underground,0.8,0.2,0.2,Room,10,Star,50,Leach
+1189,Detection,Underground,0.2,0.2,0.8,Room,10,Star,100,Leach
+1190,Detection,Underground,0.2,0.8,0.2,Room,10,Star,100,Leach
+1191,Detection,Underground,0.8,0.2,0.2,Room,10,Star,100,Leach
+1192,Detection,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1193,Detection,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1194,Detection,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1195,Detection,Underground,0.2,0.2,0.8,Room,10,Star,10,Leach
+1196,Detection,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+1197,Detection,Underground,0.2,0.2,0.8,Room,100,Star,50,Leach
+1198,Detection,Underground,0.2,0.2,0.8,Room,100,Star,100,Leach
+1199,Detection,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+1200,Detection,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+1201,Detection,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+1202,Detection,Underground,0.2,0.2,0.8,Room,100,Star,10,Leach
+1203,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1204,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1205,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1206,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1207,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1208,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1209,Detection,Underground,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1210,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1211,Detection,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1212,Detection,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1213,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1214,Detection,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1215,Detection,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1216,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1217,Detection,Underground,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1218,Detection,Underground,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1219,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1220,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1221,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1222,Detection,Underground,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1223,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1224,Detection,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1225,Detection,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1226,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1227,Detection,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1228,Detection,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1229,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1230,Detection,Underground,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1231,Detection,Underground,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1232,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1233,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1234,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1235,Detection,Underground,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1236,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+1237,Detection,Underwater Surface,0.2,0.8,0.2,Room,10,Star,10,Heed
+1238,Detection,Underwater Surface,0.8,0.2,0.2,Room,10,Star,10,Heed
+1239,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,50,Heed
+1240,Detection,Underwater Surface,0.2,0.8,0.2,Room,10,Star,50,Heed
+1241,Detection,Underwater Surface,0.8,0.2,0.2,Room,10,Star,50,Heed
+1242,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,100,Heed
+1243,Detection,Underwater Surface,0.2,0.8,0.2,Room,10,Star,100,Heed
+1244,Detection,Underwater Surface,0.8,0.2,0.2,Room,10,Star,100,Heed
+1245,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+1246,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+1247,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+1248,Detection,Underwater Surface,0.2,0.2,0.8,Room,10,Star,10,Heed
+1249,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+1250,Detection,Underwater Surface,0.8,0.2,0.2,Room,100,Star,10,Heed
+1251,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,50,Leach
+1252,Detection,Underwater Surface,0.8,0.2,0.2,Room,100,Star,50,Heed
+1253,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,100,Leach
+1254,Detection,Underwater Surface,0.8,0.2,0.2,Room,100,Star,100,Heed
+1255,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+1256,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+1257,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+1258,Detection,Underwater Surface,0.2,0.2,0.8,Room,100,Star,10,Leach
+1259,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1260,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1261,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1262,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1263,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1264,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1265,Detection,Underwater Surface,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1266,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1267,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1268,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1269,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1270,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1271,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1272,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1273,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1274,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1275,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1276,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1277,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1278,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1279,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1280,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1281,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1282,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1283,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1284,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1285,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1286,Detection,Underwater Surface,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1287,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1288,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1289,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1290,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1291,Detection,Underwater Surface,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1292,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+1293,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,50,Heed
+1294,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,100,Heed
+1295,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+1296,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+1297,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+1298,Detection,Underwater Surface,0.8,0.2,0.2,Apartment Complex,1000,Star,10,Heed
+1299,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+1300,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,50,Heed
+1301,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,100,Heed
+1302,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+1303,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+1304,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+1305,Detection,Underwater Surface,0.8,0.2,0.2,City Block,10,Star,10,Heed
+1306,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+1307,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,50,Heed
+1308,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,100,Heed
+1309,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+1310,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+1311,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+1312,Detection,Underwater Surface,0.8,0.2,0.2,City Block,100,Star,10,Heed
+1313,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+1314,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,50,Heed
+1315,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,100,Heed
+1316,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+1317,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+1318,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+1319,Detection,Underwater Surface,0.8,0.2,0.2,City Block,1000,Star,10,Heed
+1320,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+1321,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,50,Heed
+1322,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,100,Heed
+1323,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+1324,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+1325,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+1326,Detection,Underwater Surface,0.8,0.2,0.2,City,10,Star,10,Heed
+1327,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+1328,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,50,Heed
+1329,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,100,Heed
+1330,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+1331,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+1332,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+1333,Detection,Underwater Surface,0.8,0.2,0.2,City,100,Star,10,Heed
+1334,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+1335,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,50,Heed
+1336,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,100,Heed
+1337,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+1338,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+1339,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+1340,Detection,Underwater Surface,0.8,0.2,0.2,City,1000,Star,10,Heed
+1341,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+1342,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,50,Heed
+1343,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,100,Heed
+1344,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+1345,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+1346,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+1347,Detection,Underwater Surface,0.8,0.2,0.2,Region,10,Star,10,Heed
+1348,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+1349,Detection,Underwater Surface,0.2,0.8,0.2,Region,100,Star,10,DBST
+1350,Detection,Underwater Surface,0.8,0.2,0.2,Region,100,Star,10,Heed
+1351,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,50,DBST
+1352,Detection,Underwater Surface,0.2,0.8,0.2,Region,100,Star,50,DBST
+1353,Detection,Underwater Surface,0.8,0.2,0.2,Region,100,Star,50,Heed
+1354,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,100,DBST
+1355,Detection,Underwater Surface,0.2,0.8,0.2,Region,100,Star,100,DBST
+1356,Detection,Underwater Surface,0.8,0.2,0.2,Region,100,Star,100,Heed
+1357,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+1358,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+1359,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+1360,Detection,Underwater Surface,0.2,0.2,0.8,Region,100,Star,10,DBST
+1361,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+1362,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,50,Heed
+1363,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,100,Heed
+1364,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+1365,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+1366,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+1367,Detection,Underwater Surface,0.8,0.2,0.2,Region,1000,Star,10,Heed
+1368,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+1369,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,50,Heed
+1370,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,100,Heed
+1371,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+1372,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+1373,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+1374,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,10,Star,10,Heed
+1375,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+1376,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,10,Heed
+1377,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,10,Heed
+1378,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,50,Heed
+1379,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,50,Heed
+1380,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,50,Heed
+1381,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,100,Heed
+1382,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,100,Star,100,Heed
+1383,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,100,Star,100,Heed
+1384,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+1385,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+1386,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+1387,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,100,Star,10,Heed
+1388,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+1389,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,10,Heed
+1390,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,10,Heed
+1391,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,50,Heed
+1392,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,50,Heed
+1393,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,50,Heed
+1394,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,100,Heed
+1395,Detection,Underwater Surface,0.2,0.8,0.2,Ocean,1000,Star,100,Heed
+1396,Detection,Underwater Surface,0.8,0.2,0.2,Ocean,1000,Star,100,Heed
+1397,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+1398,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+1399,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+1400,Detection,Underwater Surface,0.2,0.2,0.8,Ocean,1000,Star,10,Heed
+1401,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+1402,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,50,Heed
+1403,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,100,Heed
+1404,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+1405,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+1406,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+1407,Detection,Underwater Surface,0.8,0.2,0.2,Object,10,Star,10,Heed
+1408,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+1409,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,50,Heed
+1410,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,100,Heed
+1411,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+1412,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+1413,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+1414,Detection,Underwater Surface,0.8,0.2,0.2,Object,100,Star,10,Heed
+1415,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+1416,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,50,Heed
+1417,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,100,Heed
+1418,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+1419,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+1420,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+1421,Detection,Underwater Surface,0.8,0.2,0.2,Object,1000,Star,10,Heed
+1422,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+1423,Detection,Underwater Deep,0.2,0.8,0.2,Room,10,Star,10,Leach
+1424,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+1425,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+1426,Detection,Underwater Deep,0.2,0.8,0.2,Room,10,Star,50,Leach
+1427,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+1428,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+1429,Detection,Underwater Deep,0.2,0.8,0.2,Room,10,Star,100,Leach
+1430,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+1431,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+1432,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+1433,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+1434,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+1435,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+1436,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+1437,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+1438,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+1439,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+1440,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+1441,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+1442,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+1443,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+1444,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+1445,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+1446,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+1447,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+1448,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+1449,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,10,Leach
+1450,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,10,Pegasis
+1451,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,50,Leach
+1452,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,50,Pegasis
+1453,Detection,Underwater Deep,0.2,0.2,0.8,Room,10,Star,100,Leach
+1454,Detection,Underwater Deep,0.8,0.2,0.2,Room,10,Bus,100,Pegasis
+1455,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+1456,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,50,Leach
+1457,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,100,Leach
+1458,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+1459,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+1460,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+1461,Detection,Underwater Deep,0.2,0.2,0.8,Room,100,Star,10,Leach
+1462,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1463,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1464,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1465,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1466,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1467,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1468,Detection,Underwater Deep,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1469,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1470,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1471,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+1472,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1473,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1474,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+1475,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1476,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1477,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+1478,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1479,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+1480,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1481,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+1482,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1483,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+1484,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1485,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+1486,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1487,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+1488,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1489,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+1490,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1491,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+1492,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1493,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+1494,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1495,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+1496,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1497,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,10,Pegasis
+1498,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1499,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,50,Pegasis
+1500,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1501,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,10,Bus,100,Pegasis
+1502,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1503,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1504,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1505,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1506,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1507,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1508,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1509,Detection,Underwater Deep,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1510,Detection,Underwater Deep,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1511,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1512,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1513,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1514,Detection,Underwater Deep,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1515,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+1516,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,50,Pegasis
+1517,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,100,Pegasis
+1518,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+1519,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+1520,Detection,Underwater Deep,0.8,0.2,0.2,City Block,10,Bus,10,Pegasis
+1521,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+1522,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,50,Pegasis
+1523,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,100,Pegasis
+1524,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+1525,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+1526,Detection,Underwater Deep,0.8,0.2,0.2,City,10,Bus,10,Pegasis
+1527,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+1528,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,50,Pegasis
+1529,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,100,Pegasis
+1530,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+1531,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+1532,Detection,Underwater Deep,0.8,0.2,0.2,Region,10,Bus,10,Pegasis
+1533,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+1534,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,10,Pegasis
+1535,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,10,Pegasis
+1536,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,50,Pegasis
+1537,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,50,Pegasis
+1538,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,50,Pegasis
+1539,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,100,Pegasis
+1540,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,10,Bus,100,Pegasis
+1541,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,10,Bus,100,Pegasis
+1542,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+1543,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+1544,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,10,Bus,10,Pegasis
+1545,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+1546,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,10,Pegasis
+1547,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,10,Pegasis
+1548,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,50,Pegasis
+1549,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,50,Pegasis
+1550,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,50,Pegasis
+1551,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,100,Pegasis
+1552,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,100,Bus,100,Pegasis
+1553,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,100,Bus,100,Pegasis
+1554,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+1555,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+1556,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,100,Bus,10,Pegasis
+1557,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+1558,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,10,Pegasis
+1559,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,10,Pegasis
+1560,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,50,Pegasis
+1561,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,50,Pegasis
+1562,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,50,Pegasis
+1563,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,100,Pegasis
+1564,Detection,Underwater Deep,0.2,0.8,0.2,Ocean,1000,Bus,100,Pegasis
+1565,Detection,Underwater Deep,0.8,0.2,0.2,Ocean,1000,Bus,100,Pegasis
+1566,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+1567,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+1568,Detection,Underwater Deep,0.2,0.2,0.8,Ocean,1000,Bus,10,Pegasis
+1569,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+1570,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,50,Pegasis
+1571,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,100,Pegasis
+1572,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+1573,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+1574,Detection,Underwater Deep,0.8,0.2,0.2,Object,10,Bus,10,Pegasis
+1575,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+1576,Detection,Vacuum Space,0.2,0.8,0.2,Room,10,Star,10,Leach
+1577,Detection,Vacuum Space,0.8,0.2,0.2,Room,10,Star,10,Leach
+1578,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,50,Leach
+1579,Detection,Vacuum Space,0.2,0.8,0.2,Room,10,Star,50,Leach
+1580,Detection,Vacuum Space,0.8,0.2,0.2,Room,10,Star,50,Leach
+1581,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,100,Leach
+1582,Detection,Vacuum Space,0.2,0.8,0.2,Room,10,Star,100,Leach
+1583,Detection,Vacuum Space,0.8,0.2,0.2,Room,10,Star,100,Leach
+1584,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+1585,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+1586,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+1587,Detection,Vacuum Space,0.2,0.2,0.8,Room,10,Star,10,Leach
+1588,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+1589,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,50,Leach
+1590,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,100,Leach
+1591,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+1592,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+1593,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+1594,Detection,Vacuum Space,0.2,0.2,0.8,Room,100,Star,10,Leach
+1595,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1596,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1597,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1598,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1599,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1600,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1601,Detection,Vacuum Space,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1602,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1603,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1604,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1605,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1606,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1607,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1608,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1609,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1610,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1611,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1612,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1613,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1614,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1615,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1616,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1617,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1618,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1619,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1620,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1621,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1622,Detection,Vacuum Space,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1623,Detection,Vacuum Space,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1624,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1625,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1626,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1627,Detection,Vacuum Space,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1628,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+1629,Detection,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,10,DBST
+1630,Detection,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,10,DBST
+1631,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,50,DBST
+1632,Detection,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,50,DBST
+1633,Detection,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,50,DBST
+1634,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,100,DBST
+1635,Detection,Vacuum Space,0.2,0.8,0.2,City Block,10,Bus,100,DBST
+1636,Detection,Vacuum Space,0.8,0.2,0.2,City Block,10,Bus,100,DBST
+1637,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+1638,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+1639,Detection,Vacuum Space,0.2,0.2,0.8,City Block,10,Bus,10,DBST
+1640,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+1641,Detection,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,10,DBST
+1642,Detection,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,10,DBST
+1643,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,50,DBST
+1644,Detection,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,50,DBST
+1645,Detection,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,50,DBST
+1646,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,100,DBST
+1647,Detection,Vacuum Space,0.2,0.8,0.2,City Block,100,Bus,100,DBST
+1648,Detection,Vacuum Space,0.8,0.2,0.2,City Block,100,Bus,100,DBST
+1649,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+1650,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+1651,Detection,Vacuum Space,0.2,0.2,0.8,City Block,100,Bus,10,DBST
+1652,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+1653,Detection,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,10,DBST
+1654,Detection,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,10,DBST
+1655,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,50,DBST
+1656,Detection,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,50,DBST
+1657,Detection,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,50,DBST
+1658,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,100,DBST
+1659,Detection,Vacuum Space,0.2,0.8,0.2,City Block,1000,Bus,100,DBST
+1660,Detection,Vacuum Space,0.8,0.2,0.2,City Block,1000,Bus,100,DBST
+1661,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+1662,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+1663,Detection,Vacuum Space,0.2,0.2,0.8,City Block,1000,Bus,10,DBST
+1664,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+1665,Detection,Vacuum Space,0.2,0.8,0.2,City,10,Bus,10,DBST
+1666,Detection,Vacuum Space,0.8,0.2,0.2,City,10,Bus,10,DBST
+1667,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,50,DBST
+1668,Detection,Vacuum Space,0.2,0.8,0.2,City,10,Bus,50,DBST
+1669,Detection,Vacuum Space,0.8,0.2,0.2,City,10,Bus,50,DBST
+1670,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,100,DBST
+1671,Detection,Vacuum Space,0.2,0.8,0.2,City,10,Bus,100,DBST
+1672,Detection,Vacuum Space,0.8,0.2,0.2,City,10,Bus,100,DBST
+1673,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+1674,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+1675,Detection,Vacuum Space,0.2,0.2,0.8,City,10,Bus,10,DBST
+1676,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+1677,Detection,Vacuum Space,0.2,0.8,0.2,City,100,Bus,10,DBST
+1678,Detection,Vacuum Space,0.8,0.2,0.2,City,100,Bus,10,DBST
+1679,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,50,DBST
+1680,Detection,Vacuum Space,0.2,0.8,0.2,City,100,Bus,50,DBST
+1681,Detection,Vacuum Space,0.8,0.2,0.2,City,100,Bus,50,DBST
+1682,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,100,DBST
+1683,Detection,Vacuum Space,0.2,0.8,0.2,City,100,Bus,100,DBST
+1684,Detection,Vacuum Space,0.8,0.2,0.2,City,100,Bus,100,DBST
+1685,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+1686,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+1687,Detection,Vacuum Space,0.2,0.2,0.8,City,100,Bus,10,DBST
+1688,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+1689,Detection,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,10,DBST
+1690,Detection,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,10,DBST
+1691,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,50,DBST
+1692,Detection,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,50,DBST
+1693,Detection,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,50,DBST
+1694,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,100,DBST
+1695,Detection,Vacuum Space,0.2,0.8,0.2,City,1000,Bus,100,DBST
+1696,Detection,Vacuum Space,0.8,0.2,0.2,City,1000,Bus,100,DBST
+1697,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+1698,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+1699,Detection,Vacuum Space,0.2,0.2,0.8,City,1000,Bus,10,DBST
+1700,Detection,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+1701,Detection,Object,0.2,0.8,0.2,Room,10,Star,10,Leach
+1702,Detection,Object,0.8,0.2,0.2,Room,10,Star,10,Leach
+1703,Detection,Object,0.2,0.2,0.8,Room,10,Star,50,Leach
+1704,Detection,Object,0.2,0.8,0.2,Room,10,Star,50,Leach
+1705,Detection,Object,0.8,0.2,0.2,Room,10,Star,50,Leach
+1706,Detection,Object,0.2,0.2,0.8,Room,10,Star,100,Leach
+1707,Detection,Object,0.2,0.8,0.2,Room,10,Star,100,Leach
+1708,Detection,Object,0.8,0.2,0.2,Room,10,Star,100,Leach
+1709,Detection,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+1710,Detection,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+1711,Detection,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+1712,Detection,Object,0.2,0.2,0.8,Room,10,Star,10,Leach
+1713,Detection,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+1714,Detection,Object,0.2,0.2,0.8,Room,100,Star,50,Leach
+1715,Detection,Object,0.2,0.2,0.8,Room,100,Star,100,Leach
+1716,Detection,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+1717,Detection,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+1718,Detection,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+1719,Detection,Object,0.2,0.2,0.8,Room,100,Star,10,Leach
+1720,Detection,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1721,Detection,Object,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1722,Detection,Object,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1723,Detection,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1724,Detection,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1725,Detection,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1726,Detection,Object,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1727,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1728,Detection,Object,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1729,Detection,Object,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1730,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1731,Detection,Object,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1732,Detection,Object,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1733,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1734,Detection,Object,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1735,Detection,Object,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1736,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1737,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1738,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1739,Detection,Object,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1740,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1741,Detection,Object,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1742,Detection,Object,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1743,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1744,Detection,Object,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1745,Detection,Object,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1746,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1747,Detection,Object,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1748,Detection,Object,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1749,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1750,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1751,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1752,Detection,Object,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1753,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+1754,Detection,Human Body,0.2,0.8,0.2,Room,10,Star,10,Leach
+1755,Detection,Human Body,0.8,0.2,0.2,Room,10,Star,10,Leach
+1756,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,50,Leach
+1757,Detection,Human Body,0.2,0.8,0.2,Room,10,Star,50,Leach
+1758,Detection,Human Body,0.8,0.2,0.2,Room,10,Star,50,Leach
+1759,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,100,Leach
+1760,Detection,Human Body,0.2,0.8,0.2,Room,10,Star,100,Leach
+1761,Detection,Human Body,0.8,0.2,0.2,Room,10,Star,100,Leach
+1762,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+1763,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+1764,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+1765,Detection,Human Body,0.2,0.2,0.8,Room,10,Star,10,Leach
+1766,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+1767,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,50,Leach
+1768,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,100,Leach
+1769,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+1770,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+1771,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+1772,Detection,Human Body,0.2,0.2,0.8,Room,100,Star,10,Leach
+1773,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1774,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,50,Heed
+1775,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,100,Heed
+1776,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1777,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1778,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1779,Detection,Human Body,0.8,0.2,0.2,Room,1000,Star,10,Heed
+1780,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1781,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,10,Heed
+1782,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,10,Heed
+1783,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,50,Heed
+1784,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,50,Heed
+1785,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,50,Heed
+1786,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,100,Heed
+1787,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,10,Star,100,Heed
+1788,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,10,Star,100,Heed
+1789,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1790,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1791,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1792,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,10,Star,10,Heed
+1793,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1794,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,10,Heed
+1795,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,10,Heed
+1796,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,50,Heed
+1797,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,50,Heed
+1798,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,50,Heed
+1799,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,100,Heed
+1800,Detection,Human Body,0.2,0.8,0.2,Apartment Complex,100,Star,100,Heed
+1801,Detection,Human Body,0.8,0.2,0.2,Apartment Complex,100,Star,100,Heed
+1802,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1803,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1804,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed
+1805,Detection,Human Body,0.2,0.2,0.8,Apartment Complex,100,Star,10,Heed

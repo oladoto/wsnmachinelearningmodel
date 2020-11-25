@@ -1,0 +1,35 @@
+,scenario,classification,variable,obj_energy,obj_bandwidth,obj_latency,field_size,sink_distance,atmosphere,limit_energy,limit_bandwidth,limit_latency,number_of_nodes,aggregation_function,physical_topology,logical_topology,sampling_rate,required_connectivity,best_technique
+0,Health Monitoring,Monitoring,Heart Rate,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Leach
+1,Air traffic Control,Monitoring,Moving Target,0.2,0.2,0.8,City Block,City Block,City Block,0.8,0.2,0.2,1-100 nodes,AVG,STAR,Cluster,1-10/s,Full,Leach
+2,Appliance control (lighting and HVAC),Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+3,Area and theater monitoring (military),Monitoring,Moving Target,0.6,0.2,0.8,Region,Region,Region,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+4,Area and theater monitoring (military),Detection,Moving Target,0.2,0.2,0.8,Region,Region,Region,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+5,Assembly line and workflow,Monitoring,Vibration,0.8,0.2,0.2,Object,Apartment Complex,Apartment Complex,0.8,0.2,0.2,1-100 nodes,MAX,LINEAR,Chain,1-10/s,Full,Pegasis
+6,"Asset management (e.g., container tracking)",Monitoring,Moving Target,0.8,0.2,0.2,Object,Object,Object,0.6,0.2,0.8,1-10 nodes,AVG,STAR,Cluster,1-10/s,Partial,Leach
+7,Automated automobile maintenance telemetry,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+8,Automated automobile maintenance telemetry,Detection,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.2,0.2,0.8,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+9,"Automatic control of multiple home systems to improve conservation, convenience, and safety",Monitoring,Small Area,0.8,0.2,0.2,Room,Room,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+10,"Automatic control of multiple home systems to improve conservation, convenience, and safety",Detection,Small Area,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+11,Automatic meter reading,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,LINEAR,Tree,1-10/s,Full,DBST
+12,"Automating control of multiple systems to improve conservation, flexibility, and security",Monitoring,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-100/s,Full,Heed
+13,"Automating control of multiple systems to improve conservation, flexibility, and security",Detection,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-10/s,Full,Heed
+14,Automotive sensors and actuators,Monitoring,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+15,Automotive sensors and actuators,Detection,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+16,"Auto-to-auto applications 
+(FCC approved range is about 100 m)",Monitoring,Vibration,0.2,0.6,0.8,City,City,Object,0.8,0.2,0.2,1-100 nodes,AVG,BUS,Chain,1-10/s,Partial,Pegasis
+17,Battlefield management,Monitoring,Vibration,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+18,Battlefield reconnaissance and surveillance,Monitoring,Vibration,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+19,Battlefield reconnaissance and surveillance,Detection,Vibration,0.8,0.2,0.2,City,City,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+20,Biological monitoring for agents,Monitoring,Vibration,0.8,0.2,0.2,City,City,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+24,Borders monitoring (Mexican and Canadian borders),Monitoring,Vibration,0.8,0.2,0.2,Region,Region,Object,0.2,0.2,0.8,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+25,Borders monitoring (Mexican and Canadian borders),Detection,Vibration,0.2,0.2,0.8,Region,Region,Object,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+28,"Building automation 
+(security,HVAC, automated meter reading, lighting control, access control)",Monitoring,Vibration,0.8,0.2,0.2,Apartment Complex,Apartment Complex,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+31,"Centibots (DARPA): embedded mobile sensor nodes; 100 robots mapping, tracking, and",Monitoring,Vibration,0.8,0.2,0.2,Region,Region,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+32,"Centibots (DARPA): embedded mobile sensor nodes; 100 robots mapping, tracking, and",Detection,Vibration,0.8,0.2,0.2,Region,Region,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+35,Civil engineering applications,Monitoring,Vibration,0.8,0.2,0.2,City Block,City Block,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+39,Commercial building control,Detection,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+40,Configuring and running multiple home control systems from a single remote control,Monitoring,Vibration,0.8,0.2,0.2,Room,Room,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Heed
+46,Wild Fire,Detection,Vibration,0.2,0.2,0.8,Region,Region,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+246,Weather monitoring,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Directed Diffusion
+250,Wireless automated meter reading and load management,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,DBST

@@ -1,0 +1,106 @@
+,scenario,classification,variable,obj_energy,obj_bandwidth,obj_latency,field_size,sink_distance,atmosphere,limit_energy,limit_bandwidth,limit_latency,number_of_nodes,aggregation_function,physical_topology,logical_topology,sampling_rate,required_connectivity,best_technique
+0,Health Monitoring,Monitoring,Heart Rate,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Leach
+1,Air traffic Control,Monitoring,Moving Target,0.2,0.2,0.8,City Block,City Block,Overground,0.8,0.2,0.2,1-100 nodes,AVG,STAR,Cluster,1-10/s,Full,Leach
+2,Appliance control (lighting and HVAC),Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+3,Area and theater monitoring (military),Monitoring,Moving Target,0.6,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+4,Area and theater monitoring (military),Detection,Moving Target,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,MAX,MESH,Mesh,1-100/s,Full,Directed Diffusion
+5,Assembly line and workflow,Monitoring,Vibration,0.8,0.2,0.2,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-100 nodes,MAX,LINEAR,Chain,1-10/s,Full,Pegasis
+6,"Asset management (e.g., container tracking)",Monitoring,Moving Target,0.8,0.2,0.2,Object,Object,Overground,0.6,0.2,0.8,1-10 nodes,AVG,STAR,Cluster,1-10/s,Partial,Leach
+7,Automated automobile maintenance telemetry,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+8,Automated automobile maintenance telemetry,Detection,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.2,0.2,0.8,1-10 nodes,AVG,MESH,MESH,1-100/s,Full,Directed Diffusion
+9,"Automatic control of multiple home systems to improve conservation, convenience, and safety",Monitoring,Small Area,0.8,0.2,0.2,Room,Room,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+10,"Automatic control of multiple home systems to improve conservation, convenience, and safety",Detection,Small Area,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,COUNT,STAR,Cluster,1-10/s,Full,Leach
+11,Automatic meter reading,Monitoring,Local Telemetry,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,LINEAR,Tree,1-10/s,Full,DBST
+12,"Automating control of multiple systems to improve conservation, flexibility, and security",Monitoring,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-100/s,Full,Heed
+13,"Automating control of multiple systems to improve conservation, flexibility, and security",Detection,System,0.6,0.6,0.8,Object,Object,Object,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-10/s,Full,Heed
+14,Automotive sensors and actuators,Monitoring,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+15,Automotive sensors and actuators,Detection,Local Telemetry,0.2,0.2,0.8,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+16,"Auto-to-auto applications 
+(FCC approved range is about 100 m)",Monitoring,Traffic,0.2,0.6,0.8,City,City,Object,0.8,0.2,0.2,1-100 nodes,AVG,BUS,Chain,1-10/s,Partial,Pegasis
+17,Battlefield management,Monitoring,Moving Target,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+18,Battlefield reconnaissance and surveillance,Monitoring,Moving Target,0.2,0.6,0.8,Region,Region,Overground,0.8,0.2,0.2,1-1000 nodes,AVG,MESH,Cluster,1-1000/s,Full,Directed Diffusion
+19,Battlefield reconnaissance and surveillance,Detection,Moving Target,0.8,0.2,0.2,City,City,Overground,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Cluster,1-1000/s,Full,Directed Diffusion
+20,Biological monitoring for agents,Monitoring,Small Area,0.8,0.2,0.2,City,City,Object,0.8,0.2,0.2,1-10 nodes,AVG,BUS,Chain,1-10/s,Partial,Heed
+21,Biomedical applications,Monitoring,Multiple System,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,BUS,Chain,1-10/s,Partial,Heed
+22,"Blinds, drapery, and shade controls",Monitoring,Small Area,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Cluster,1-10/s,Partial,Leach
+23,Body-worn medical sensors,Monitoring,Multiple System,0.8,0.2,0.2,Object,Object,Object,0.8,0.2,0.2,1-10 nodes,COUNT,STAR,Cluster,1-10/s,Partial,Leach
+24,Borders monitoring (Mexican and Canadian borders),Monitoring,Moving Target,0.8,0.2,0.2,Region,Region,Overground,0.2,0.2,0.8,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+25,Borders monitoring (Mexican and Canadian borders),Detection,Moving Target,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,AVG,STAR,Chain,1-10/s,Full,Pegasis
+26,Bridge and highway monitoring (safety),Monitoring,Vibration,0.8,0.6,0.2,City,City,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+27,Building and structures monitoring,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Heed
+28,"Building automation 
+(security,HVAC, automated meter reading, lighting control, access control)",Monitoring,Vibration,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+29,Building energy monitoring and control,Monitoring,Multiple System,0.8,0.2,0.6,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.6,1-100 nodes,AVG,STAR,Cluster,1-10/s,Partial,Heed
+30,"Capturing highly detailed electric, water, and gas utility usage data",Monitoring,Multiple System,0.8,0.6,0.6,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-100 nodes,MAX,BUS,Chain,1-10/s,Partial,Pegasis
+31,"Centibots (DARPA): embedded mobile sensor nodes; 100 robots mapping, tracking",Monitoring,Distributed System,0.8,0.2,0.6,Region,Region,Overground,0.8,0.2,0.6,1-1000 nodes,MIXED,STAR,Cluster,1-100/s,Full,Heed
+32,Coherent environment guardance monitoring,Monitoring,System,0.8,0.2,0.6,Region,Region,Overground,0.8,0.2,0.2,1-100 nodes,MAX,STAR,Cluster,1-1000/s,Full,Heed
+33,"Chemical, biological, radiological, and nuclear wireless sensors (sensors for toxic chemicals, explosives, and biological agents)",Monitoring,Distributed System,0.8,0.2,0.2,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+34,Civil engineering applications,Monitoring,Small Area,0.8,0.2,0.2,City Block,City Block,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+35,In-patient health data collection,Monitoring,System / Body,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+36,Combat field surveillance,Monitoring,Moving Target,0.6,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+37,Commercial building control,Monitoring,Multiple System,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+38,Commercial building control,Detection,Multiple System,0.6,0.2,0.8,Apartment Complex,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+39,Configuring and running multiple home control systems from a single remote control,Monitoring,Multiple System,0.8,0.2,0.2,Room,Apartment Complex,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Heed
+40,Consumer applications,Monitoring,Vibration,0.8,0.2,0.2,Room,Room,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Partial,Heed
+41,"Consumer electronics and entertainment (TV, VCR, DVD/CD)",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+42,"Monitor and Tracking of belongings, pets, and young children",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+43,"Monitor and Tracking of belongings, pets, and young children",Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+44,Wild Fire,Monitoring,Vibration,0.8,0.2,0.2,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+45,Wild Fire,Detection,Vibration,0.2,0.2,0.8,Region,Region,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+46,Critical infrastructure protection and security,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+47,Defense systems,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+48,"Detecting an impulsive event 
+(footstep, gunshot, or vehicle - wheeled or tracked, etc.)",Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+49,Detecting structural faults in aircraft,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+50,"Detecting structural faults in buildings 
+(e.g., fatigue-induced cracks)",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+51,"Detecting structural faults in buildings 
+(e.g., fatigue-induced cracks)",Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+52,Detecting structural faults in ships,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+53,Detecting toxic agents,Monitoring,Toxic Gas,0.8,0.2,0.2,Object,Object,Air,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+54,Detection and tracking of enemy vehicles,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+55,Detection and tracking of enemy vehicles,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+56,Disaster management,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+57,Distributed robotics,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+58,Distributed sensing (military),Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+59,Earthquake detection,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+60,Earthquake detection,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+61,Electricity load management,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+62,Embedded intelligence to optimize consumption of natural resources,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+63,E-money/point-of-sale applications (including kiosks),Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+64,E-money/point-of-sale applications (including kiosks),Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+65,Enabling businesses to monitor and control workspaces,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+66,Enabling deployment of wireless monitoring networks to enhance perimeter protection,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+67,Enabling deployment of wireless monitoring networks to enhance perimeter protection,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+68,Enabling extension and upgrading of building infrastructure with minimal effort,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+69,"Enabling installation, upgrading, and networking of home control system without wires",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+70,Enabling networking and integration of data from multiple access control points,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+71,Enabling rapid reconfiguring of lighting systems to create adaptable workspaces,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+72,Energy management,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+73,Environmental  Land and agricultural wireless sensors,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+74,Environmental - Air wireless sensors,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+75,Environmental - Sea wireless sensors,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+76,Environmental - soil contamination tracking,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+77,Environmental - precision agriculture,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+78,Equipment management services and preventive maintenance,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+79,Equipment management services and preventive maintenance,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+80,Extending existing manufacturing and process control systems reliably,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+81,Automatic notification upon detection of unusual events,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+82,"Farm sensor and actuator networks (monitoring soil moisture, feeding pigs, unmanned tractor control)",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+83,"Flexible management of lighting, heating, and cooling systems from anywhere in the home",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+84,Food safety,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+85,"Gas, water, and electric meters",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+86,"Gateway or field service links to sensors and equipment (monitored to support preventive maintenance, status changes, diagnostics, energy use, etc.)",Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+87,"Gateway or field service links to sensors and equipment (monitored to support preventive maintenance, status changes, diagnostics, energy use, etc.)",Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+88,Habitat monitoring,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+89,Habitat sensing,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+90,Health care,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+91,Heartbeat sensors,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+92,Heating control,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+93,Heating control,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+94,Automated data acquisition from remote sensors to reduce user intervention,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+95,Monitoring networks to enhance employee and public safety,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+96,Identification of inefficient operation or poorly performing equipment,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+97,Identification of inefficient operation or poorly performing equipment,Detection,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+98,Streamlined data collection for improved compliance reporting,Monitoring,Vibration,0.8,0.2,0.2,Object,Object,Overground,0.8,0.2,0.2,1-10 nodes,MAX,STAR,Cluster,1-10/s,Full,Leach
+99,Herd control from central location using sensor-based fences and remote-controlled gates,Monitoring,Moving Target,0.6,0.2,0.8,City Block,City Block,Overground,0.2,0.2,0.8,1-100 nodes,AVG,MESH,Mesh,1-10/s,Full,Directed Diffusion
