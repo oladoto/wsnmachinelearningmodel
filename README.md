@@ -1,5 +1,5 @@
 # wsnmachinelearningmodel
-Algorithm to create data for a machine learning model for a recommendation application
+Python code covers the algorithm used to create data for a machine learning model to recommend data aggregation techniques.
 
 This is code that covers research in the Internet of Things, Wireless Sensor Networks and Machine Learning.
 The aim of the research included the management of devices in IoT environments.
